@@ -1,2 +1,1 @@
-# Google AdMob
- google.com, pub-3513877467522774, DIRECT, f08c47fec0942fa0
+google.com, pub-3513877467522774, DIRECT, f08c47fec0942fa0
